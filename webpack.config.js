@@ -26,7 +26,7 @@ const config = {
   devServer: {
     compress: true,
     open: true,
-    host: "GACDTL001SS369k", // Your Machine Name
+    host: "localhost", // Your Machine Name
     port: 8080
   },
   devtool: "source-map"
